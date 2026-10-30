@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="EdgarBanner.png" alt="Edgar Nore — Hybrid Builder" width="100%">
+</p>
 # 👋 Hey, I'm Edgar!
 
 🚀 Aspiring Hybrid Builder | Future AI Engineer
